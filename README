@@ -1,0 +1,4 @@
+
+scripts to build with configure using /tmp for object files. 
+Pound /tmp instead of the SSD with the source on it.
+
